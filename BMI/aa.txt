@@ -1,0 +1,1 @@
+a a;65.0kg;176.0cm;BMI=20.983987603305785;Evalutaion=Normal Gewicht
